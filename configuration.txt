@@ -1,0 +1,17 @@
+isp: 0.45
+obp: 0.25
+eff: 0.75
+exp: 0.1
+psc: 0.75
+loc: 0.25
+sparsity_bonus: 0.5
+end_sparsity_bonus: 0.2
+root_budget: 4.5
+tree_budget: 9.5
+max_parallel: 0.95
+parallel_penalty: 0.25
+max_density: 0.425
+filter_dense_cuts: True
+filter_parallel_cuts: False
+penalise_locks: True
+penalise_obp: True
