@@ -1,4 +1,4 @@
-# TITLE
+# A Context-Aware Cutting Plane Selection Algorithm for Mixed-Integer Programming
 
 If this software was used for academic purposes, please cite our paper with the below information:
 
