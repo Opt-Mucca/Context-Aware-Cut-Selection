@@ -2,7 +2,12 @@
 
 If this software was used for academic purposes, please cite our paper with the below information:
 
-`add something here`
+`@article{turner2023context,
+  title={{A Context-Aware Cutting Plane Selection Algorithm for Mixed-Integer Programming}},
+  author={Turner, Mark and Berthold, Timo and Besan{\c{c}}on, Mathieu},
+  journal={arXiv preprint arXiv:2307.07322},
+  year={2023}
+}`
 
 ## Install Guide
 Requirements: Python 3.9 / Debian 11 (Also tested with 3.11).
